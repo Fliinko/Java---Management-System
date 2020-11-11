@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Validation
+comment1.params=letter\ first\ last
+comment1.target=boolean\ checkLetter(char,\ char,\ char)
+numComments=2

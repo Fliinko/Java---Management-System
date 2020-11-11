@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Manipulate_Job
+comment1.params=jobListIn
+comment1.target=void\ addJob(java.util.ArrayList)
+comment2.params=jobListIn\ findJob\ pos
+comment2.target=void\ ask_new_details(java.util.ArrayList,\ int,\ int)
+comment3.params=jobListIn\ staffListIn
+comment3.target=void\ jobDetails(java.util.ArrayList,\ java.util.ArrayList)
+comment4.params=jobListIn
+comment4.target=void\ jobFinished(java.util.ArrayList)
+comment5.params=jobListIn
+comment5.target=void\ listpending(java.util.ArrayList)
+comment6.params=jobListIn
+comment6.target=void\ jobhistory(java.util.ArrayList)
+comment7.params=jobListIn
+comment7.target=void\ writeList(java.util.ArrayList)
+comment8.params=jobListIn
+comment8.target=void\ readList(java.util.ArrayList)
+numComments=9

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Paint
+comment1.params=b\ c\ PID\ qty\ st
+comment1.target=Paint(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getPID()
+comment3.params=
+comment3.target=java.lang.String\ getBrand()
+comment4.params=
+comment4.target=java.lang.String\ getColour()
+comment5.params=
+comment5.target=int\ getQty()
+comment6.params=
+comment6.target=java.lang.String\ getStatus()
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment8.params=obj
+comment8.target=boolean\ equals(java.lang.Object)
+numComments=9

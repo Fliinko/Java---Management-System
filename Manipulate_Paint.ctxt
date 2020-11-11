@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Manipulate_Paint
+comment1.params=paintListIn
+comment1.target=void\ addPaint(java.util.ArrayList)
+comment2.params=paintListIn
+comment2.target=void\ listAll(java.util.ArrayList)
+comment3.params=paintListIn
+comment3.target=void\ listAvail(java.util.ArrayList)
+comment4.params=paintListIn
+comment4.target=void\ removePaint(java.util.ArrayList)
+comment5.params=paintListIn
+comment5.target=void\ sort_Brand(java.util.ArrayList)
+comment6.params=paintListIn
+comment6.target=void\ writeList(java.util.ArrayList)
+comment7.params=paintListIn
+comment7.target=void\ readList(java.util.ArrayList)
+numComments=8

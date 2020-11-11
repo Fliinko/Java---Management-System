@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Job
+comment1.params=JN\ PN\ st\ sID
+comment1.target=Job(int,\ java.lang.String,\ java.lang.String,\ int)
+comment2.params=
+comment2.target=int\ getsID()
+comment3.params=
+comment3.target=int\ getJobNo()
+comment4.params=
+comment4.target=java.lang.String\ getPlaneRegNo()
+comment5.params=PN
+comment5.target=void\ setPlaneRegNo(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getStatus()
+comment7.params=st
+comment7.target=void\ setStatus(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment9.params=obj
+comment9.target=boolean\ equals(java.lang.Object)
+numComments=10

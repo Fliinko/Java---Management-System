@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Manipulate_Staff
+comment1.params=staffListIn
+comment1.target=void\ addStaff(java.util.ArrayList)
+comment2.params=staffListIn
+comment2.target=void\ listAll(java.util.ArrayList)
+comment3.params=staffListIn\ findName\ findSurname\ findTNO\ position
+comment3.target=void\ staff_new_details(java.util.ArrayList,\ java.lang.String,\ java.lang.String,\ int,\ int)
+comment4.params=staffListIn
+comment4.target=void\ sort_SID(java.util.ArrayList)
+comment5.params=staffListIn
+comment5.target=void\ removeStaff(java.util.ArrayList)
+comment6.params=staffListIn
+comment6.target=void\ writeList(java.util.ArrayList)
+comment7.params=staffListIn
+comment7.target=void\ readList(java.util.ArrayList)
+numComments=8
